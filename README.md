@@ -1,3 +1,4 @@
+###
 Welcome to Geometry Lunch Seminar at Department of Mathematics, the Pennsylvania State University.
 
 This is a weekly event for anyone interested in geometry.
@@ -10,9 +11,13 @@ The talk starts at 12:20 and is expected to last for 40--45 minutes.
 A ZOOM option should be available at https://psu.zoom.us/j/96436994021
 
 Organizers:
-Dmitri Burago 
-Anton Petrunin
-Hongda Qiu, hqiu@psu.edu
+
+⋅⋅⋅⋅*Dmitri Burago 
+
+⋅⋅⋅⋅*Anton Petrunin
+
+⋅⋅⋅⋅*Hongda Qiu, hqiu@psu.edu
+
 
 Past Organizers:
-John Roe
+⋅⋅⋅⋅*John Roe
