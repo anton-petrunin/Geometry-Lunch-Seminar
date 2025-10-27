@@ -14,12 +14,12 @@ A ZOOM option should be available at https://psu.zoom.us/j/96436994021
 
 Organizers:  
 
-⋅⋅⋅⋅* Dmitri Burago  
+* Dmitri Burago  
 
-⋅⋅⋅⋅* Anton Petrunin  
+* Anton Petrunin  
 
-⋅⋅⋅⋅* Hongda Qiu, hqiu@psu.edu  
+* Hongda Qiu, hqiu@psu.edu  
 
 
 Past Organizers:  
-⋅⋅⋅⋅*John Roe  
+* John Roe  
