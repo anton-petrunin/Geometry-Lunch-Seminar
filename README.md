@@ -8,16 +8,16 @@ For in-person talks, catered food is expected at 12:00 p.m.; however, this, and 
 
 The talk starts at 12:20 and is expected to last for 40--45 minutes.
 
-A ZOOM option should be available at https://psu.zoom.us/j/96436994021
+A ZOOM option should be available at https://psu.zoom.us/j/96436994021  
 
-Organizers:
+Organizers:  
 
-⋅⋅⋅⋅*Dmitri Burago 
+⋅⋅⋅⋅*Dmitri Burago  
 
-⋅⋅⋅⋅*Anton Petrunin
+⋅⋅⋅⋅*Anton Petrunin  
 
-⋅⋅⋅⋅*Hongda Qiu, hqiu@psu.edu
+⋅⋅⋅⋅*Hongda Qiu, hqiu@psu.edu  
 
 
-Past Organizers:
-⋅⋅⋅⋅*John Roe
+Past Organizers:  
+⋅⋅⋅⋅*John Roe  
